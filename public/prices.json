@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 30,
+      "features": [
+        "Access to gym equipment",
+        "Access to locker rooms"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Membership",
+      "price": 50,
+      "features": [
+        "Access to gym equipment",
+        "Access to locker rooms",
+        "Group classes",
+        "Access to swimming pool"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Membership",
+      "price": 80,
+      "features": [
+        "Access to gym equipment",
+        "Access to locker rooms",
+        "Group classes",
+        "Access to swimming pool",
+        "Personal training sessions",
+        "Access to spa"
+      ]
+    }
+  ]
+  
