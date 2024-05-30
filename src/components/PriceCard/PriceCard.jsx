@@ -5,7 +5,7 @@ import Feature from '../Feature/Feature';
 
 const PriceCard = ({ price }) => {
     return (
-        <div className='bg-indigo-400 mt-4 rounded-md p-4 flex flex-col'>
+        <div className='bg-indigo-400 mt-4 rounded-md p-4 flex flex-col mb-12'>
             <h2 className='text-center'>
                 <span className='text-5xl font-extrabold text-purple-700'>{price.price}</span>
                 <span className='text-2xl font-bold'>/Month</span>
